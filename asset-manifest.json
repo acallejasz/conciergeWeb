@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/conciergeWeb/static/css/main.bc70131e.chunk.css",
-    "main.js": "/conciergeWeb/static/js/main.06616f43.chunk.js",
-    "main.js.map": "/conciergeWeb/static/js/main.06616f43.chunk.js.map",
-    "runtime-main.js": "/conciergeWeb/static/js/runtime-main.4f238cbb.js",
-    "runtime-main.js.map": "/conciergeWeb/static/js/runtime-main.4f238cbb.js.map",
-    "static/js/2.4879f236.chunk.js": "/conciergeWeb/static/js/2.4879f236.chunk.js",
-    "static/js/2.4879f236.chunk.js.map": "/conciergeWeb/static/js/2.4879f236.chunk.js.map",
-    "static/js/3.fe3b39ba.chunk.js": "/conciergeWeb/static/js/3.fe3b39ba.chunk.js",
-    "static/js/3.fe3b39ba.chunk.js.map": "/conciergeWeb/static/js/3.fe3b39ba.chunk.js.map",
+    "main.js": "/conciergeWeb/static/js/main.93374626.chunk.js",
+    "main.js.map": "/conciergeWeb/static/js/main.93374626.chunk.js.map",
+    "runtime-main.js": "/conciergeWeb/static/js/runtime-main.4e3ba4c2.js",
+    "runtime-main.js.map": "/conciergeWeb/static/js/runtime-main.4e3ba4c2.js.map",
+    "static/js/2.d4214808.chunk.js": "/conciergeWeb/static/js/2.d4214808.chunk.js",
+    "static/js/2.d4214808.chunk.js.map": "/conciergeWeb/static/js/2.d4214808.chunk.js.map",
+    "static/js/3.18e4e19e.chunk.js": "/conciergeWeb/static/js/3.18e4e19e.chunk.js",
+    "static/js/3.18e4e19e.chunk.js.map": "/conciergeWeb/static/js/3.18e4e19e.chunk.js.map",
     "index.html": "/conciergeWeb/index.html",
     "static/css/main.bc70131e.chunk.css.map": "/conciergeWeb/static/css/main.bc70131e.chunk.css.map",
-    "static/js/2.4879f236.chunk.js.LICENSE.txt": "/conciergeWeb/static/js/2.4879f236.chunk.js.LICENSE.txt",
+    "static/js/2.d4214808.chunk.js.LICENSE.txt": "/conciergeWeb/static/js/2.d4214808.chunk.js.LICENSE.txt",
     "static/media/avion.48003e5e.jpg": "/conciergeWeb/static/media/avion.48003e5e.jpg",
     "static/media/room_service.css": "/conciergeWeb/static/media/otros.8f7d4070.jpg",
     "static/media/navbar.css": "/conciergeWeb/static/media/color.48cd13f3.jpeg",
@@ -21,9 +21,9 @@
     "static/media/spa.e702d02c.png": "/conciergeWeb/static/media/spa.e702d02c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f238cbb.js",
-    "static/js/2.4879f236.chunk.js",
+    "static/js/runtime-main.4e3ba4c2.js",
+    "static/js/2.d4214808.chunk.js",
     "static/css/main.bc70131e.chunk.css",
-    "static/js/main.06616f43.chunk.js"
+    "static/js/main.93374626.chunk.js"
   ]
 }
