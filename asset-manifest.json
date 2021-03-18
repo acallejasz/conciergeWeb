@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/conciergeWeb/static/css/main.5cc6910a.chunk.css",
+    "main.css": "/conciergeWeb/static/css/main.d362f622.chunk.css",
     "main.js": "/conciergeWeb/static/js/main.1ab93fcf.chunk.js",
     "main.js.map": "/conciergeWeb/static/js/main.1ab93fcf.chunk.js.map",
     "runtime-main.js": "/conciergeWeb/static/js/runtime-main.4e3ba4c2.js",
@@ -10,7 +10,7 @@
     "static/js/3.18e4e19e.chunk.js": "/conciergeWeb/static/js/3.18e4e19e.chunk.js",
     "static/js/3.18e4e19e.chunk.js.map": "/conciergeWeb/static/js/3.18e4e19e.chunk.js.map",
     "index.html": "/conciergeWeb/index.html",
-    "static/css/main.5cc6910a.chunk.css.map": "/conciergeWeb/static/css/main.5cc6910a.chunk.css.map",
+    "static/css/main.d362f622.chunk.css.map": "/conciergeWeb/static/css/main.d362f622.chunk.css.map",
     "static/js/2.33f03169.chunk.js.LICENSE.txt": "/conciergeWeb/static/js/2.33f03169.chunk.js.LICENSE.txt",
     "static/media/avion.48003e5e.jpg": "/conciergeWeb/static/media/avion.48003e5e.jpg",
     "static/media/room_service.css": "/conciergeWeb/static/media/otros.8f7d4070.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e3ba4c2.js",
     "static/js/2.33f03169.chunk.js",
-    "static/css/main.5cc6910a.chunk.css",
+    "static/css/main.d362f622.chunk.css",
     "static/js/main.1ab93fcf.chunk.js"
   ]
 }
