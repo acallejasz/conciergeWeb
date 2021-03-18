@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/conciergeWeb/static/css/main.d362f622.chunk.css",
-    "main.js": "/conciergeWeb/static/js/main.2d6bbebc.chunk.js",
-    "main.js.map": "/conciergeWeb/static/js/main.2d6bbebc.chunk.js.map",
+    "main.js": "/conciergeWeb/static/js/main.1ab93fcf.chunk.js",
+    "main.js.map": "/conciergeWeb/static/js/main.1ab93fcf.chunk.js.map",
     "runtime-main.js": "/conciergeWeb/static/js/runtime-main.4e3ba4c2.js",
     "runtime-main.js.map": "/conciergeWeb/static/js/runtime-main.4e3ba4c2.js.map",
     "static/js/2.33f03169.chunk.js": "/conciergeWeb/static/js/2.33f03169.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.4e3ba4c2.js",
     "static/js/2.33f03169.chunk.js",
     "static/css/main.d362f622.chunk.css",
-    "static/js/main.2d6bbebc.chunk.js"
+    "static/js/main.1ab93fcf.chunk.js"
   ]
 }
